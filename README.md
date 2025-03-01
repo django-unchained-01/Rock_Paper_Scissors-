@@ -15,12 +15,15 @@ This is a simple **Rock Paper Scissors** game that runs entirely in the console.
 ✔️ Score tracking for both player and computer  
 ✔️ Best-of-five gameplay  
 
+## Live Preview  
+🎮 You can play the game live here: [Live Preview](<https://django-unchained-01.github.io/rock-paper-scissors-live/index.html>)
+
 ## How to Play  
 1. Clone the repository:  
    ```sh
    git clone <repository-url>
    cd rock-paper-scissors
-   ```
+   ```  
 2. Open `index.html` in a browser.  
 3. Open the **browser console** (F12 > Console).  
 4. Follow the prompts to enter your choice.  
@@ -38,3 +41,4 @@ rock-paper-scissors/
 🚀 Add a graphical user interface (GUI)  
 🎨 Style the game with CSS  
 🔊 Add sound effects  
+
